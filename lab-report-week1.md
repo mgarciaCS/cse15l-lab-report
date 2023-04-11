@@ -11,7 +11,7 @@
  
  ![Image](lab_report_pic1.png)
  
- ## 2. Remotely Connecting 
+## 2. Remotely Connecting 
  
  * At the top of the VS code tab, you should see a button for Terminal. Click this button and choose "New Terminal"
  * The new terminal should open and look like the image below : 
@@ -21,7 +21,7 @@
  * Proceed to log in with your password
  * You're done ! 
 
- ## 3. Trying out commands 
+## 3. Trying out commands 
  
  * Practicing is a great way to memorize commands! 
  * Some commands I would reccommend starting to familiarize yourself with are : 
