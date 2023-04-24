@@ -31,12 +31,16 @@
  * Some commands I would reccommend starting to familiarize yourself with are : 
     * pwd - “Print working directory” Used to display the current working directory (according to Monday Lecture Professor Politz cse 15l handout)
     * ls - <path> - “List” Used to list the files and folders the given path (according to Monday Lecture Professor Politz cse 15l handout)
-    *
+    * clear - clears terminal.
  
  ![Image](lab_report_pic5.png)
 
  There are a lot of commands we can make use of when using VS Code. I highly reccomend using them, understandably it can be hard to imagine remembering all of these! But the only thing you can do is PRACTICE. Practice, practice and practice (yes really) Personally, the one I've used the most at this point is "cd". Remember in java, being on the right path is important. Oftentimes, I've tried to run my code and it has failed to run because it can't find the file! Keep in mind that if this happens it may mean that you're in the right folder, but not in the right file inside the folder, so using cd *file name* can fix this! However, not being familiar with commands at this point I spent an hour just staring at my screen and wondering why it wouldnt run teh code! (That's rough buddy). Then a tutor took a look and showed me how to use the cd command and it started running ! As you can see, this is a great example of why knowing terminal commands is so important !
  
+![Image](lab_report_pic6.png)
+ 
+ * Here you can see how I was ablle to use cd to get to the directory I wanted! 
+ * However, after some commands you're terminal might feel crowded, use the clear command !
  
  
   
