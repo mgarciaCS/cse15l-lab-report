@@ -32,6 +32,8 @@
     * pwd - “Print working directory” Used to display the current working directory (according to Monday Lecture Professor Politz cse 15l handout)
     * ls - <path> - “List” Used to list the files and folders the given path (according to Monday Lecture Professor Politz cse 15l handout)
     * clear - clears terminal.
+    * cat - "Concatenate" Used to print the contents of one or more files given by the path.
+    * cd - "Change directory" Used to switch the current working directory to the given path.
  
  ![Image](lab_report_pic5.png)
  ![Image](lab_report_pic7.png)
