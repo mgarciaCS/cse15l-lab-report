@@ -5,7 +5,11 @@
 
   ![Image](StringServer1.png)
   
+  Here the String Server parameter is currently "Hello" in the above screenshot. Before this the parameter variable was empty. The Handle request method was called.
+  
   ![Image](StringServer2.png)
+  
+  The String server parameter has now beeen updated to "It works". This parameter was changed from "Hello". Handle request method was called.
   
   ![Image](StringServerCode.png)
   
@@ -24,6 +28,8 @@
       int[] input1 = { 3 };
       ArrayExamples.reverseInPlace(input1);
       assertArrayEquals(new int[]{ 3 }, input1);
+      
+  This test does not induce failure because the array is short enough that it would not loop over itself.
      
   The symptom, as the output of running the tests (provide it as a screenshot of running JUnit with at least the two inputs above) : 
   
